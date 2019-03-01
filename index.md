@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Data to Discovery will be held at **Room 4.31-33** at **1-2pm**. Light lunch will be served at **MF2** following the talk. [Learn more](./another-page.html) about this seminar series, and please contact [Sohan Seth](http://homepages.inf.ed.ac.uk/sseth/) if you would like to participate.
+Data to Discovery will be held at **Room 4.31-33** at **1-2pm**. A light lunch will be served at **MF2** (occasionally **MF1**) following the talk. [Learn more](./learn-more.html) about this seminar series, and contact [Sohan Seth](http://homepages.inf.ed.ac.uk/sseth/) if you would like to participate.
 
 ## Upcoming Seminars
 
