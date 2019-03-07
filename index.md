@@ -13,4 +13,4 @@ Data to Discovery will be held at **Room 4.31-33** at **1-2pm**. A light lunch w
 | 22.03.2019   | [Rupert Myers](https://www.eng.ed.ac.uk/about/people/dr-rupert-myers)     | TBA  |
 
 &nbsp;
-<div style="text-align:center"><img width = "200" src ="{{site:base_url}}/cdt.jpg" /></div>
+<div style="text-align:center"><img width = "200" src ="{{site:baseurl}}/cdt.jpg" /></div>
