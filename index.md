@@ -8,7 +8,7 @@ The seminar series is supported by [CDT in Data Science](http://datascience.inf.
 
 [Learn more](./learn-more.html) about this seminar series, and
 contact [Sohan Seth](http://homepages.inf.ed.ac.uk/sseth/) if you would like to participate.
-Subscribe to the Data to Discovery [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-seminars) to receive updates on upcoming talks. 
+Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-seminars) to receive updates on upcoming talks, and add the events to [calendar](./calendar.html). 
 
 &nbsp;
 
