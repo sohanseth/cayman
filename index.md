@@ -14,6 +14,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
+| 17.05.2019   | [Florian Fusseis](https://www.ed.ac.uk/geosciences/people?indv=3446) <br /> TBA|
 | 22.03.2019   | [Rupert Myers](https://www.eng.ed.ac.uk/about/people/dr-rupert-myers) & Zoë Petard  <br /> _Computational Industrial Ecology_ &nbsp; [[abstract]](./abstracts/220319.html)|
 | 08.03.2019   | [Lev Sarkisov](https://www.eng.ed.ac.uk/about/people/prof-lev-sarkisov)  <br />  _From Crystal to Adsorption Column: Challenges in Multiscale Computational Screening of Materials for Adsorption Separation Processes_ &nbsp; [[abstract]](./abstracts/080319.html) &nbsp; [[pptx]]({{site:baseurl}}/presentations/Sarkisov_Informatics_2019.pptx)|
 
