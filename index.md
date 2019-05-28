@@ -14,7 +14,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
-| 31.05.2019   | [Jamie Cross](https://www.ed.ac.uk/global-development/about/staff/jamie-cross) <br /> TBA|
+| TBA   | [Jamie Cross](https://www.ed.ac.uk/global-development/about/staff/jamie-cross) <br /> TBA|
 | 17.05.2019   | [Florian Fusseis](https://www.ed.ac.uk/geosciences/people?indv=3446) <br /> _How sleep-deprivation at synchrotrons advances plate tectonics_ &nbsp; [[abstract]](./abstracts/170519.html)|
 | 22.03.2019   | [Rupert Myers](https://www.eng.ed.ac.uk/about/people/dr-rupert-myers) & Zoë Petard  <br /> _Computational Industrial Ecology_ &nbsp; [[abstract]](./abstracts/220319.html)|
 | 08.03.2019   | [Lev Sarkisov](https://www.eng.ed.ac.uk/about/people/prof-lev-sarkisov)  <br />  _From Crystal to Adsorption Column: Challenges in Multiscale Computational Screening of Materials for Adsorption Separation Processes_ &nbsp; [[abstract]](./abstracts/080319.html) &nbsp; [[pptx]]({{site:baseurl}}/presentations/Sarkisov_Informatics_2019.pptx)|
