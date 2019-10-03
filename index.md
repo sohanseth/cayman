@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Data to Discovery is held at **Room 4.31-33** at **1-2pm**. A light lunch is served at **MF2** (occasionally **MF1**) following the talk. 
+Data to Discovery is held at **Room MF2** at **1-2pm**. A light lunch is served at **MF2** (occasionally **MF1**) following the talk. 
 The seminar series is supported by [CDT in Data Science](http://datascience.inf.ed.ac.uk).
 &nbsp;
 
@@ -14,7 +14,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
-| 11.10.2019   | [Gary Watmough](https://www.geos.ed.ac.uk/people/person.html?indv=7294) <br /> _TBD_ &nbsp; |
+| 11.10.2019   | [Gary Watmough](https://www.geos.ed.ac.uk/people/person.html?indv=7294) <br /> _Mapping deprivation in rural areas from Earth Observation Data_ &nbsp; [[abstract]](./abstracts/111019.html) |
 
 
 &nbsp;
