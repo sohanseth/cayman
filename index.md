@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Data to Discovery is held at **Room MF2** at **1-2pm**. A light lunch is served at **MF2** (occasionally **MF1**) following the talk. 
+Data to Discovery is held at **Room G.03** at **1-2pm**. A light lunch is served at **G.02** (occasionally **MF2**) following the talk. 
 The seminar series is supported by [CDT in Data Science](http://datascience.inf.ed.ac.uk).
 &nbsp;
 
