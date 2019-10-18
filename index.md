@@ -14,6 +14,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
+| 22.11.2019   | [Annemarie Docherty](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-annemarie-docherty) |
 | 11.10.2019   | [Gary Watmough](https://www.geos.ed.ac.uk/people/person.html?indv=7294) <br /> _Mapping deprivation in rural areas from Earth Observation Data_ &nbsp; [[abstract]](./abstracts/111019.html) |
 
 
