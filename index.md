@@ -15,7 +15,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
 | 20.12.2019   | [Simone Dimartino](https://www.eng.ed.ac.uk/about/people/dr-simone-dimartino) |
-| 22.11.2019   | [Annemarie Docherty](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-annemarie-docherty) |
+| 22.11.2019   | [Annemarie Docherty](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-annemarie-docherty) <br /> _ICU-HEART: Using routine healthcare data to improve outcomes in ICU_ &nbsp; [[abstract]](./abstracts/221119.html) |
 | 11.10.2019   | [Gary Watmough](https://www.geos.ed.ac.uk/people/person.html?indv=7294) <br /> _Mapping deprivation in rural areas from Earth Observation Data_ &nbsp; [[abstract]](./abstracts/111019.html) |
 
 
