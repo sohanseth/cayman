@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Data to Discovery is held at **Room G.03** at **1-2pm**. A light lunch is served at **G.02** (occasionally **MF2**) following the talk. 
+Data to Discovery is held at **Room G.03** (occasionally **G.07**) at **1-2pm**. A light lunch is served at **G.02** (occasionally **MF2**) following the talk. 
 The seminar series is supported by [CDT in Data Science](http://datascience.inf.ed.ac.uk).
 &nbsp;
 
@@ -12,9 +12,17 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 &nbsp;
 
+
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
-| 20.12.2019   | [Simone Dimartino](https://www.eng.ed.ac.uk/about/people/dr-simone-dimartino) |
+| 07.02.2020   | [James Cumby](http://www.chem.ed.ac.uk/staff/academic-staff/dr-james-cumby) <br /> _What use are those crystals at the back of the drawer...?_ [[abstract]](./abstracts/070220.html) |
+| 24.01.2020   | [Simone Dimartino](https://www.eng.ed.ac.uk/about/people/dr-simone-dimartino) <br /> _3D printing of ordered structures: applications in chemistry and engineering_ [[abstract]](./abstracts/201219.html) |
+
+
+&nbsp;
+
+| Date        | Speaker & Talk |
+|:-------------|:----------------|
 | 22.11.2019   | [Annemarie Docherty](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-annemarie-docherty) <br /> _ICU-HEART: Using routine healthcare data to improve outcomes in ICU_ &nbsp; [[abstract]](./abstracts/221119.html) &nbsp; [[pptx]]({{site:baseurl}}/presentations/ICU-HEART.pptx)|
 | 11.10.2019   | [Gary Watmough](https://www.geos.ed.ac.uk/people/person.html?indv=7294) <br /> _Mapping deprivation in rural areas from Earth Observation Data_ &nbsp; [[abstract]](./abstracts/111019.html) |
 
