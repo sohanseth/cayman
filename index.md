@@ -15,7 +15,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
-| 07.02.2020   | [James Cumby](http://www.chem.ed.ac.uk/staff/academic-staff/dr-james-cumby) <br /> _What use are those crystals at the back of the drawer...?_ [[abstract]](./abstracts/070220.html) |
+| 07.02.2020   | [James Cumby](http://www.chem.ed.ac.uk/staff/academic-staff/dr-james-cumby) <br /> _What use are those crystals at the back of the drawer...?_  [[abstract]](./abstracts/070220.html) |
 | 24.01.2020   | [Simone Dimartino](https://www.eng.ed.ac.uk/about/people/dr-simone-dimartino) <br /> _3D printing of ordered structures: applications in chemistry and engineering_ [[abstract]](./abstracts/201219.html) |
 
 
