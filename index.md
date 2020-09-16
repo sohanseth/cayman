@@ -15,7 +15,7 @@ Subscribe to the [mailing list](http://lists.inf.ed.ac.uk/mailman/listinfo/d2d-s
 
 | Date        | Speaker & Talk |
 |:-------------|:----------------|
-| 06.03.2020   | [Milly Lo](https://www.ed.ac.uk/centre-reproductive-health/child-life-and-health/people/principal-investigators/dr-tsz-yan-milly-lo) <br /> _IMPACT-ACE: Gold panning in the under-used critical care data stream_ [[abstract]](./abstracts/201219.html) |
+| 06.03.2020   | [Milly Lo](https://www.ed.ac.uk/centre-reproductive-health/child-life-and-health/people/principal-investigators/dr-tsz-yan-milly-lo) <br /> _IMPACT-ACE: Gold panning in the under-used critical care data stream_ [[abstract]](./abstracts/06032020.html) |
 | 24.01.2020   | [Simone Dimartino](https://www.eng.ed.ac.uk/about/people/dr-simone-dimartino) <br /> _3D printing of ordered structures: applications in chemistry and engineering_ [[abstract]](./abstracts/201219.html) |
 
 
